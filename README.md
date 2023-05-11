@@ -1,76 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Catalogue Of Pets
+## BUCHI
 
-> This React Capstone project is a browsable catalogue of pets using React and Redux that enables users to filter and access details of a specific item.
+>BUchi is web application that allows customers to search for pets based on various parameters, including type (Cat or Dog), good with children (yes or no), age (baby, young, adult, senior), gender (male, female, or unknown), and size (small, medium, large, xlarge). Customers can also view pet lists, which include animal type (cat or dog) and photo, and view detailed information about each pet, including pet type, photos, gender, good with children, size, and age. Additionally, customers can click on the ADOPT button and enter their name and phone number to adopt a pet. With this application, customers can easily find the perfect pet for their family.
 
-# Search Page
-
-![screenshot](./public/ss-one.png)
-
-# Details Page
-
-![screenshot](./public/ss-two.png)
-
-# About the project
-
-This project was built as a React & Redux Capstone project at Microverse. It is based on the idea of a "Catalogue of Recipes" which is a single-page application with React and Redux. It shows a browsable list of pets that users can filter and access to the details of each pet. Every page, the main page, and pages for each item have a unique route within the Single Page Application. it has three functionality.
-
-* Page with a list of pets that could be filtered by animal type
-* Page for displaying lists of a particular animal type
-* Page for displaying deatails of a particular pet
-
-## Built With
-
-* React
-* PetFinder API
-* Redux
-* Hooks
-* Router
-* Css
-* NodeJS
-
-## Live Demo
-
-[Live Demo Link](https://pets-catalogie.herokuapp.com/)
-
-### Prerequisites
-
-* NodeJS
-* React
+- HTML, CSS , Javascript
+- React, Redux frameworks
+- Eslint, Stylelintrc, Redux ToolKit
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
-* Git clone repository `https://github.com/Davidosky007/catalogue-of-pet.git`
-* Cd to the project directory `cd catalogue-of-pet`
-* Install dependencies `npm install`
-* On the terminal run `npm start` to open up live server
-* To run test Type `npm run test` in the terminal
+- Clone the project `$ git clone https://github.com/Abel-desu/crypto-market](https://github.com/Abel-desu/Buchi).git`
+- Open your project in VS code of any text editor that you love to use.
+- Install node js `npm install`
+- you can bulid the project `npm run build` and run it using the browser or live server or you can run it using `npm run start`.
 
-👤 **David Bassey**
+Author
 
-* GitHub: [@davidosky007](https://github.com/davidosky007)
-* Twitter: [@davidosky2](https://twitter.com/Davidosky2)
-* LinkedIn: [David Bassey](https://www.linkedin.com/in/david-bassey-akan/)
+👤 **Abel Desalegn**
+
+- GitHub: [@AbelDesalegn](https://github.com/Abel-desu)
+- Twitter: [@AbelDesalegn](https://twitter.com/abeldesalegn97)
+- LinkedIn: [@AbelDesalegn](https://www.linkedin.com/in/abel-desalegn)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Davidosky007/catalogue-of-pet/issues).
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
-
+## Acknowledgements
+Original design idea by: [@petfinder](https://www.petfinder.com/)
+Show your support
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-* [My Pet Finder API](https://www.petfinder.com/developers/docs/)
-* Facebook team who created creat-react-app API
-* [Microverse](https://www.microverse.org/)
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.

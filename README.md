@@ -11,7 +11,7 @@
 
 To get a local copy up and running follow these simple steps.
 
-- Clone the project `$ git clone https://github.com/Abel-desu/crypto-market](https://github.com/Abel-desu/Buchi).git`
+- Clone the project `$ git clone https://github.com/Abel-desu/Buchi.git`
 - Open your project in VS code of any text editor that you love to use.
 - Install node js `npm install`
 - you can bulid the project `npm run build` and run it using the browser or live server or you can run it using `npm run start`.

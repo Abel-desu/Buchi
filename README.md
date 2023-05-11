@@ -4,7 +4,7 @@
 >BUchi is web application that allows customers to search for pets based on various parameters, including type (Cat or Dog), good with children (yes or no), age (baby, young, adult, senior), gender (male, female, or unknown), and size (small, medium, large, xlarge). Customers can also view pet lists, which include animal type (cat or dog) and photo, and view detailed information about each pet, including pet type, photos, gender, good with children, size, and age. Additionally, customers can click on the ADOPT button and enter their name and phone number to adopt a pet. With this application, customers can easily find the perfect pet for their family.
 
 - HTML, CSS , Javascript
-- React, Redux frameworks
+- React, Redux frameworks.API
 - Eslint, Stylelintrc, Redux ToolKit
 
 ## Getting Started

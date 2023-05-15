@@ -48,12 +48,13 @@ textarea {
   margin-bottom: 30px;
 }
 
-.loading__wrapper{
-    position: relative;
-    width: 100%;
-    height: 100%;
+.loading__wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
-.loading__wrapper:before {
+
+.loading__wrapper::before {
   content: "";
   position: absolute;
   top: 50%;
@@ -66,14 +67,10 @@ textarea {
   border-top-color: #333;
   animation: spin 1s infinite linear;
 }
+
 @keyframes spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
-.main__wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .search__form__wrapper {
